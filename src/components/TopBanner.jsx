@@ -18,7 +18,7 @@ beaches: Long Beach & Venice Beach, and this is a shame.
                     </p> <br/>
                     <p>
                     California would like to solve this problem by making the beaches
-more accessible to the public and other beachgoers, this webiste gives information, locations and
+more accessible to the public and other beachgoers, this website gives information, locations and
 some visuals about the beaches.
                     </p> <br/>
                     <p>Happy exploring!</p>
