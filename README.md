@@ -24,48 +24,21 @@ You may also see any lint errors in the console.
 
 ## About the app
 
-The app shows california beaches. It uses a top naviation bar with some menus and enquiry button. 
-The image gallery below shows recommended places with filtering tabs and search bar. 
-You can see the geographical area, name and description of the beach. 
-You can see the images of the beach in a image gallery with options to play, pause, next, previous, and fullscreen viewer. 
-You can also see the services available at the beach with tooltip when you hover over it, such as parking, dog-friendly, wheelchair access, fishing etc. You can also click/tap on the phone number to
-call the authorities to get more info. 
-Scroll down to see the visitors reviews 
-Footer with copyright marker with quick links 
-and the scroll to top button to quickly scroll to the top.
+- The app shows california beaches. It uses a top naviation bar with some menus and enquiry button. 
+- The image gallery below shows recommended places with filtering tabs and search bar. 
+- You can see the geographical area, name and description of the beach. 
+- You can see the images of the beach in a image gallery with options to play, pause, next, previous, and fullscreen viewer. 
+- You can also see the services available at the beach with tooltip when you hover over it, such as parking, dog-friendly, wheelchair access, fishing etc. 
+- You can also click/tap on the phone number to call the authorities to get more info. 
+- Scroll down or click on Reviews link on the top nav bar to see the visitors reviews 
+- Footer with copyright marker with quick links 
+- Scroll to top button to quickly scroll to the top.
 
 ## Final thoughts
 
+API provides very limited set of data. If there was any detailed description, I could have setup another article page where we could see detailed description of the selected beach on a separate page. But right now this just a single page. 
 The app could have been better if we had a UX/CX developer to help with the designs. 
 But please let me know if you have any feedbacks where we can improve the app, if any. 
+
+
 Thanks :) 
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
